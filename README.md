@@ -3,4 +3,4 @@
  Inspired by https://puzzles.roussos.world/
  
  How to use: 
-    python lb-solver.py /path/to/wordlist.txt
+ python lb-solver.py /path/to/wordlist.txt
